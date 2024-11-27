@@ -1,1 +1,0 @@
-Here is my secret : PicoCTF{form4t_str1ngs_4r3_fun_r1ght}
